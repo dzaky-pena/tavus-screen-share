@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tavus-screen-share/static/css/main.788bb627.css",
+    "main.js": "/tavus-screen-share/static/js/main.026f657d.js",
+    "static/js/453.585ae6c7.chunk.js": "/tavus-screen-share/static/js/453.585ae6c7.chunk.js",
+    "index.html": "/tavus-screen-share/index.html",
+    "main.788bb627.css.map": "/tavus-screen-share/static/css/main.788bb627.css.map",
+    "main.026f657d.js.map": "/tavus-screen-share/static/js/main.026f657d.js.map",
+    "453.585ae6c7.chunk.js.map": "/tavus-screen-share/static/js/453.585ae6c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.788bb627.css",
+    "static/js/main.026f657d.js"
+  ]
+}
